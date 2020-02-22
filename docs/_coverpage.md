@@ -1,10 +1,12 @@
-<img width="180px" style="border-radius: 50%" bor src="https://nodejsred.oss-cn-shanghai.aliyuncs.com/nodejs_roadmap-logo.jpeg?x-oss-process=style/may">
+![logo](_media/icon.svg)
 
-# Node.js技术栈指南
+# docsify <small>4.10.2</small>
 
-- 本文档是作者从事 ```Node.js Developer``` 以来的学习历程，旨在为大家提供一个较详细的学习教程，侧重点更倾向于 Node.js 服务端所涉及的技术栈，如果本文能为您得到帮助，请给予支持！
+> A magical documentation site generator.
 
-[![stars](https://badgen.net/github/stars/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap) [![forks](https://badgen.net/github/forks/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap)
+- Simple and lightweight (~21kB gzipped)
+- No statically built html files
+- Multiple themes
 
-[GitHub](<https://github.com/Q-Angelo/Nodejs-Roadmap>)
-[开始阅读](README.md)
+[GitHub](https://github.com/docsifyjs/docsify/)
+[Getting Started](#docsify)
