@@ -11,8 +11,8 @@ If you need custom navigation, you can create a HTML-based navigation bar.
 
 <body>
   <nav>
-    <a href="#/">EN</a>
     <a href="#/zh-cn/">中文</a>
+    <a href="#/">EN</a>
   </nav>
   <div id="app"></div>
 </body>

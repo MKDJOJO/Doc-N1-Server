@@ -24,9 +24,8 @@
   - [Server-Side Rendering(SSR)](ssr.md)
   - [Embed Files](embed-files.md)
 
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
-- [测试1](家庭任务管理- NAS.md)
-- [测试2](家庭任务管理-N1 小钢炮.md)
-- [测试3](家庭任务管理-N1电视盒子.md)
-- [测试4](家庭任务管理—VPS.md)
+
+- [1](家庭任务管理- NAS.md)
+- [2](家庭任务管理-N1 小钢炮.md)
+- [3](家庭任务管理-N1电视盒子.md)
+- [4](01.md)
