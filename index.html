@@ -13,7 +13,7 @@
 
   <body>
     <nav>
-      <a href="/docs/zh-cn">中文</a>
+      <a href="#">中文</a>
       <a href="#/">LeetCode 题解</a>
       <a href="http://jalan.space" target="_blank">我的博客</a>
     </nav>
@@ -28,6 +28,9 @@
         onlyCover: true,
         // 加载 _sidebar.md
         loadSidebar: true,
+        alias: {
+          '/.*/_sidebar.md': '/_sidebar.md'
+        }
         // 切换页面后是否自动跳转到页面顶部。
         auto2top: true
 
@@ -35,7 +38,7 @@
         // loadSidebar: 'summary.md'
 
         //生成目录的最大层级
-      subMaxLevel: 4
+        subMaxLevel: 4
 
 
       };
