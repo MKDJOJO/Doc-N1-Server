@@ -12,8 +12,19 @@
   <div id="app">创建中，不着急</div>
   <script>
     window.$docsify = {
-      //...
-    }
+      // 加载 _sidebar.md
+      loadSidebar: true,
+
+      // 加载 summary.md
+      loadSidebar: 'summary.md'
+
+      //生成目录的最大层级
+      subMaxLevel: 2
+      // 切换页面后是否自动跳转到页面顶部。
+      auto2top: true
+
+    };
+
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
