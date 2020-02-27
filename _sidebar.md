@@ -1,4 +1,5 @@
 * [简介](/)
+
 * 数据结构
   * [数组](data-structure/array/)
   * [字符串](data-structure/string/)
@@ -27,7 +28,7 @@
   * [数学题](algorithm/math/)
   * [其他](algorithm/other/)
 * 周赛
-  * [第 121 场周赛](weekly/121/)
+  * [第 121 场周赛](weekly/)
   * [第 122 场周赛](weekly/122/)
   * [第 124 场周赛](weekly/124/)
   * [第 129 场周赛](weekly/129/)
