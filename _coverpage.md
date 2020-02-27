@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](http://img.hhlmy.xyz/IMG/Head_sculpture/team-1.jpg)
 # 我的文档网站
 ## 个人文档网站
 > 一个神奇的文档网站生成巩固
