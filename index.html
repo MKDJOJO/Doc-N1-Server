@@ -38,7 +38,7 @@
       search: 'auto',
       //我们可以通过 {docsify-updated} 变量显示文档更新日期. 
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
-
+      //头标角标
       plugins: [
         function (hook, vm) {
           hook.beforeEach(function (html) {
@@ -47,14 +47,14 @@
                 .replace('raw.githubusercontent.com', 'github.com')
                 .replace(/\/master/, '/blob/master')
             } else {
-              url = 'https://github.com/docsifyjs/docsify/blob/master/docs/' + vm.route.file
+              url = 'https://github.com/MKDJOJO/doc-n1' + vm.route.file
             }
-            var editHtml = '[:memo: Edit Document](' + url + ')\n'
+            var editHtml = '[:memo: 编辑文档](' + url + ')\n'
 
             return editHtml
               + html
               + '\n\n----\n\n'
-              + '<a href="http://CCTV.com" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>'
+              + '<a href="http://CCTV.com" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">荣幸引用 docsify</a>'
           })
         },
       ]
