@@ -12,4 +12,4 @@
 [Get Started](guide)
 
 <!-- 背景色 -->
-![color](#f0f0f0)
+![](http://img.hhlmy.xyz/Work/Other/IMG-HQ-022.jpg)
