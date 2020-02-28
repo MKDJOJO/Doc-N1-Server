@@ -23,17 +23,17 @@
       //生成封面
       coverpage: true
       //把封面作为首页
-      //onlyCover: true,
+      onlyCover: true,
+      loadSidebar: true
       // 加载 _sidebar.md
       //loadSidebar: true,
       // 切换页面后是否自动跳转到页面顶部。
       //auto2top: true
-
-      // 加载 summary.md
-      // loadSidebar: 'summary.md'
-
       //生成目录的最大层级
       subMaxLevel: 4
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      }
 
 
     };
