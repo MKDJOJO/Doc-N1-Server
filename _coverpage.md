@@ -8,8 +8,8 @@
 * 一个神奇的文档网站生成巩固
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#quick-start)
-[Get Started](#quick-start)
+[Get Started](/)
+[Get Started](guide)
 
 <!-- 背景色 -->
 ![color](#f0f0f0)
